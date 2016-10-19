@@ -5,7 +5,11 @@ Welcome to my Parse and Analyzer
 First you need to extract the folder "Log File Compressed.zip" to be able to access the log file.
 Make sure to extract the zip folder into the same directory
 
-Run Main.rb to view the program
+Next simply go to your command line and type in:
+
+ruby Main.rb 
+
+to run the program
 
 
 
