@@ -19,4 +19,4 @@ puts "---------------------------------------------------"
 require "./Log_Split.rb"
 puts "---------------------------------------------------"
 
-puts "It works... Thank God"
+puts "\nIt works... Thank God"
